@@ -1,184 +1,131 @@
-# Hi, I'm Tsegay 👋
+# 👋 Tsegay Gebrekidan
 
-## Full-Stack Developer • Urban Planning Technologist • Digital Systems Designer
+**Full-Stack Developer & Urban Planning Technologist**
 
-I am a full-stack developer and final-year Urban & Regional Planning student at Mekelle University with a strong passion for building modern digital systems, institutional platforms, health-tech solutions, and AI-powered applications.
+Final-year Urban & Regional Planning student at Mekelle University building modern digital systems at the intersection of technology, health, and public-sector innovation. Scalable platforms. Real-world impact.
 
-My work focuses on developing scalable, responsive, and user-centered platforms for healthcare, education, research, and public-sector innovation.
-
----
-
-# 🚀 What I Build
-
-* Full-stack web applications
-* Health-tech platforms
-* Institutional management systems
-* AI-powered tools
-* Research & survey systems
-* Interactive dashboards
-* Responsive UI/UX systems
-* Data-driven digital platforms
+🟢 **Available for collaboration** — Open to NGO, health-tech & research projects
 
 ---
 
-# 🛠 Tech Stack
+## 📬 Get In Touch
 
-## Frontend
-
-* Next.js
-* Vite.js
-* React
-* HTML5
-* CSS3
-* Tailwind CSS
-* JavaScript
-
-## Backend
-
-* Flask
-* Django
-* Python
-* REST APIs
-
-## Database & Cloud
-
-* MongoDB
-* PostgreSQL
-* Firebase
-* MySQL
-
-## Additional Tools
-
-* Git & GitHub
-* Chart.js
-* AI API Integrations
-* Responsive UI/UX Design
+- **Email:** [tsegaydev@gmail.com](mailto:tsegaydev@gmail.com)
+- **Phone:** +251 946 351 205
+- **GitHub:** [@TsegayDev](https://github.com/TsegayDev)
+- **Location:** Ethiopia 🇪🇹
 
 ---
 
-# 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-## 🩺 PediTrack Pro
+### Frontend
+`Next.js` `React 19` `Vite.js` `TypeScript` `Tailwind CSS` `HTML5` `CSS3` `JavaScript`
 
-### Advanced Pediatric Monitoring & Analytics Platform
+### Backend
+`Django` `Flask` `Python` `REST APIs` `Express.js` `Node.js`
 
-A modern health-tech platform designed for child growth monitoring, analytics, and visualization systems.
+### Database & Cloud
+`PostgreSQL` `MongoDB` `Firebase` `MySQL` `SQLite`
 
-### Key Features
-
-* Growth analytics dashboard
-* WHO-standard monitoring tools
-* Interactive charts
-* Responsive medical UI
-* Data visualization systems
+### Tools & Integrations
+`Git & GitHub` `Google GenAI` `Firebase Genkit` `Recharts` `Shadcn UI` `UI/UX Design`
 
 ---
 
-## 🏫 Zalla-Central
+## 🚀 Featured Projects
 
-### School Management System
+### 🏥 [PediTrack Pro](https://github.com/TsegayDev/PediTrack-Pro)
+**Pediatric Monitoring & Clinical Growth Analytics Platform**
 
-A comprehensive institutional management system built for educational administration and workflow management.
+A premium healthcare platform for child growth monitoring using WHO standards. Features LMS calculation engine, blood pressure analysis, interactive growth charts, and multi-language support (English, Amharic, Tigrinya).
 
-### Key Features
-
-* Administrative dashboard
-* Student & staff management
-* Institutional workflows
-* Modern responsive UI
-* Database-driven architecture
+**Tech:** Next.js 15 • React 19 • TypeScript • Tailwind CSS • Zustand • Firebase • Google Genkit
 
 ---
 
-## 📊 Thesis-Survey
+### 🏫 [Zalla-Central](https://github.com/TsegayDev/Zalla-Central)
+**High School Management System (KG-12)**
 
-### Research & Surveying Web Platform
+Comprehensive school management system for academic operations, communication, and reporting. Includes admin dashboard, teacher portal, student performance tracking, and AI curriculum assistant powered by Gemini 2.5 Flash.
 
-A web-based platform designed for survey collection, research workflows, and data management.
-
-### Key Features
-
-* Dynamic survey system
-* Research data collection
-* Backend integration
-* Responsive interface
-* Analytics-ready structure
+**Tech:** React 19 • Vite • Express.js • MongoDB • TypeScript • Tailwind CSS • Google Gemini
 
 ---
 
-## 🏙 UrbanZix
+### 📊 [Thesis-Survey](https://github.com/TsegayDev/Thesis-Survey)
+**Professional Survey Platform for Academic Research**
 
-### AI Assistant for Urban Planners
+Mobile-first, multilingual survey platform for thesis data collection. Features community portal, admin dashboard with analytics, 6 question types, geolocation capture, and Excel export.
 
-An AI-assisted platform focused on urban planning workflows and smart digital assistance.
-
-### Key Features
-
-* AI-assisted interface
-* Modern dashboard UI
-* Planning-oriented workflow design
-* Interactive frontend architecture
+**Tech:** React 19 • TypeScript • Vite • Flask • SQLite • Tailwind CSS • Recharts
 
 ---
 
-## 🤖 ZExpander-AI
+### 🏗️ [UrbanZix](https://github.com/TsegayDev/UrbanZix)
+**AI Assistant for Urban Planning**
 
-### AI Text Intelligence Platform
+Intelligent planning companion with AI-assisted workflows, zoning calculator, population/density projections, and construction guidelines library.
 
-An AI-powered platform for text enhancement, tone analysis, humanization, and plagiarism detection.
-
-### Key Features
-
-* AI API integrations
-* Tone analysis
-* Text expansion
-* Humanizer tools
-* Plagiarism checking
+**Tech:** Next.js 16 • React 19 • TypeScript • Tailwind CSS • Firebase Genkit • Google GenAI • Recharts
 
 ---
 
-# 🎯 Areas of Interest
+### ✍️ [ZExpander-AI](https://github.com/TsegayDev/ZExpander-AI)
+**AI-Powered Writing Assistant**
 
-* Health-Tech
-* Smart City Systems
-* Urban Technology
-* Public-Sector Digital Platforms
-* Institutional Systems
-* AI-Powered Applications
-* Human-Centered UI/UX
-* Data Visualization
+Multi-capability AI text intelligence suite for expanding, humanizing, tone analysis, and plagiarism detection. Built for writers, researchers, and institutions.
+
+**Tech:** React 18 • Vite • TypeScript • Tailwind CSS • Framer Motion • Node.js • Express • Google GenAI
 
 ---
 
-# 📈 Current Focus
+### 📋 [Django Surveying Web App](https://github.com/TsegayDev/Django-Surveying-Web-App)
+**Survey Data Collection Platform**
 
-* Building scalable digital platforms
-* Advanced dashboard systems
-* Health-tech innovation
-* AI-assisted productivity systems
-* Public-sector technology solutions
+Django-based survey application with multi-format data export (XML, JSON, Excel, PDF, CSV).
 
----
-
-# 🤝 Open To
-
-* Web development collaborations
-* NGO & institutional projects
-* Health-tech initiatives
-* Research & innovation projects
-* Open-source contributions
+**Tech:** Django • Python • CSS • HTML
 
 ---
 
-# 📫 Contact
+## 🎯 Areas of Interest
 
-* GitHub: https://github.com/TsegayDev
-* Email: [your-email@example.com](mailto:your-email@example.com)
+- 🏥 Health-Tech
+- 🏙️ Smart City Systems
+- 🌆 Urban Technology
+- 🏛️ Public-Sector Platforms
+- 🏫 Institutional Systems
+- 🤖 AI Applications
+- 🎨 Human-Centered UX
+- 📈 Data Visualization
 
 ---
 
-# ⚡ Philosophy
+## 🔍 Current Focus
 
-> Building technology that solves real-world institutional, health, and public-sector challenges through modern, scalable, and user-centered digital systems.
+1. **Scalable digital platforms** for public and institutional sectors
+2. **Advanced dashboard systems** for real-time data insight
+3. **Health-tech innovation** for pediatric and clinical contexts
+4. **AI-assisted productivity tools** and text intelligence systems
+5. **Public-sector technology** and civic digital transformation
 
 ---
+
+## 💡 Philosophy
+
+> Building technology that solves **real-world** institutional, health, and public-sector challenges — through modern, scalable, and **human-centered** digital systems.
+
+---
+
+## 🤝 Open To
+
+- Web development collaborations
+- NGO & institutional projects
+- Health-tech initiatives
+- Research & innovation projects
+- Open-source contributions
+
+---
+
+**Developer:** Tsegay Gebrekidan | **Year:** 2026 | **Building:** The Future of Digital Health & Public Systems 🚀
